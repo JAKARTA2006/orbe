@@ -1,0 +1,9 @@
+# gerados no console
+ports/orbe/config.txt
+ports/orbe/log.txt
+ports/orbe/saves/
+config.txt
+log.txt
+# saídas de teste
+*.wav
+/dist/

@@ -1,0 +1,14 @@
+ORBE 1.0 - sintetizador generativo para R36S
+Bolas quicam dentro de um anel; cada batida toca uma nota da escala.
+Texturas: drone, graos, fita, eco, reverb com shimmer.
+
+CIMA/BAIXO ......... escolher parametro
+ESQ/DIR ............ ajustar (ou analogico direito)
+ANALOGICO ESQUERDO . inclina a gravidade do anel
+A chacoalhar | B nova cena | X congelar graos | Y proximo preset
+L1/R1 tonica | L2/R2 (ou L3/R3) escala | START pausa | SELECT ajuda
+SELECT+START sair (salva em config.txt)
+
+Precisa do LOVE 11.5 (port Balatro ou runtime love_11.5 do PortMaster).
+Log: ports/orbe/log.txt
+Projeto: https://github.com/JAKARTA2006/orbe
